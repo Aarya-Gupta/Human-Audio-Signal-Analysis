@@ -40,6 +40,12 @@ Follow the steps below to execute the MATLAB functions and analyze the signal:
    - Analyze the variations in the waveform with varying noise variance.
    - Plot the eye diagram for the noisy waveform and explain the impact of increased noise variance on the eye diagram.
 
+
+## File Description
+Q1.M - Sampling, Quantization and PCM Encoding
+Q1.M - NRZ Encoding and Eye Diagram
+Q4.M - Effect of noise on the channel
+
 ## Contributors
 - Aarya Gupta
 
