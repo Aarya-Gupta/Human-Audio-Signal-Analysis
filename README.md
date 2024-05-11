@@ -42,9 +42,9 @@ Follow the steps below to execute the MATLAB functions and analyze the signal:
 
 
 ## File Description
-Q1.M - Sampling, Quantization and PCM Encoding
-Q1.M - NRZ Encoding and Eye Diagram
-Q4.M - Effect of noise on the channel
+- Q1.M - Sampling, Quantization and PCM Encoding
+- Q2.M - NRZ Encoding and Eye Diagram
+- Q4.M - Effect of noise on the channel
 
 ## Contributors
 - Aarya Gupta
