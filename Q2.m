@@ -3,7 +3,7 @@
 % configuration of the system.
 %% Line Code
 clear;clf;
-[audioData, fm] = audioread('C:\Users\aarya\OneDrive\Desktop\_\SEM 4\PCS\2022006_Aarya_Gupta_PCS_Ass-2\PCS_Ass-2_Recording.m4a');
+[audioData, fm] = audioread('sample_audio.m4a');
  
 % data = audioData(57000:168000, 1);      % Audio Signal
 Tau= 2048;                           % Define the symbol period
