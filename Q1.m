@@ -73,7 +73,7 @@ function [audioData, time, f, audioData_fft, amplitude, phase, fm] = input_20220
     title('Phase Plot');
 end
 
-[audioData, time, f, audioData_fft, amplitude, phase, fm] = input_2022006('C:\Users\aarya\OneDrive\Desktop\_\SEM 4\PCS\2022006_Aarya_Gupta_PCS_Ass-2\PCS_Ass-2_Recording.m4a');
+[audioData, time, f, audioData_fft, amplitude, phase, fm] = input_2022006('sample_audio.m4a');
 
 %% Displaying the maximum frequency component of the signal; 
 N = length(audioData_fft); % Length of the FFT
