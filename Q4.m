@@ -1,6 +1,6 @@
 %% Line Code (from Problem 2)
 clear;clf;
-[audioData, fm] = audioread('PCS_Ass-2_Recording.m4a');
+[audioData, fm] = audioread('sample_audio.m4a');
 X = zeros(size(audioData));
 for i=57000:57200
     % Plotting for first 200 samples (after clearing noise by collecting)
