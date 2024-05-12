@@ -8,7 +8,7 @@ Follow the steps below to execute the MATLAB functions and analyze the signal:
 
 1. **Input Signal Analysis**
    - A sample audio signal is used for the project.
-   - Import the audio signal into MATLAB and replace it with the sample audio signal 'sample_audio.m4a'.
+   - Import the audio signal into MATLAB and replace it with the sample audio signal `sample_audio.m4a`.
    - Use the `input_2022006` function to display the characteristics of the signal in the time domain and frequency domain.
    - The maximum frequency component of the signal can be observed.
 
